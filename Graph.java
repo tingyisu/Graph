@@ -1,4 +1,5 @@
-package assignment4Graph;
+// adjacency matrix graph
+// includes methods that find the number of edges, whether or not a cycle exists at a certain vertex, and the shortest path between 2 vertices.
 
 public class Graph {
 	
